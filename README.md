@@ -1,12 +1,12 @@
-# AluraFlix
-Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um catálogo de vídeos com HTML e CSS" da Alura Start.
+# Aluno
+Pedro Henrique Gomes Montanha
 
-## Tecnologias utilizadas
-- HTML
-- CSS
+## Escola
+Benedita rosa rezende, 
+Estou no 1°ano do ensino medio
 
-## Acessando o código
-Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
+## idade
+tenho 15 anos
 
-## Notas e créditos
-Feito por Guilherme Silveira, instrutor e fundador da Alura.
+## Matéria
+Pensamento computacional
